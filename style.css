@@ -11,3 +11,12 @@ body {
     background-image: url(logo_background.png);
     color: #f1f1f1;
 }
+/*.container-nef {
+    background-color: #353744;
+    color: #f1f1f1;
+}*/
+
+.container-x3 {
+    background-color: #dadada;
+    color: #000000;
+}
