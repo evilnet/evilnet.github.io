@@ -25,3 +25,14 @@ body {
     background-position: right top;
     background-position: 100% -10%;
 }
+.container-znc {
+    background-color: #606060;
+    color: #000000;
+}
+
+.container-foot {
+    background-color: #333333;
+    color: #999999;
+}
+
+
