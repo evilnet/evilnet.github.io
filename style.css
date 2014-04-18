@@ -11,12 +11,17 @@ body {
     background-image: url(logo_background.png);
     color: #f1f1f1;
 }
-/*.container-nef {
-    background-color: #353744;
-    color: #f1f1f1;
-}*/
+.container-nef {
+    background-color: #ffffff;
+    background-image: url(network-sm.png);
+    background-repeat: no-repeat;
+}
 
 .container-x3 {
     background-color: #dadada;
     color: #000000;
+    background-image: url(robot2.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-position: 100% -10%;
 }
